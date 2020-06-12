@@ -1,3 +1,9 @@
+# This Repository is no longer maintained
+
+This repository is now part of **https://github.com/matteobruni/tsparticles**
+
+---
+
 # tsParticles - Angular Component ![Node.js CI](https://github.com/matteobruni/ng-particles/workflows/Node.js%20CI/badge.svg)
 
 [tsParticles](https://github.com/matteobruni/tsparticles) Angular component
